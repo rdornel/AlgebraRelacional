@@ -1,1 +1,3 @@
 SELECT * FROM MOVIMENTOS
+
+WHERE ContaNumero = '001905-9'
