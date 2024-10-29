@@ -1,0 +1,36 @@
+group: MinhaCaixa 
+
+Clientes = {
+       ClienteCodigo:string, ClienteCPF:string, ClienteNome:string, ClienteSobrenome:string ,ClienteSexo:string, ClienteNascimento:string, ClienteEstadoCivil:string, ClienteRua:string ,ClienteNumero:string, ClienteBairro:string, ClienteCEP:string ,ClienteCidade:string,ClienteEstado:string, ClientePais:string, ClienteRendaAnual:string, ClienteTelefone:string, ClienteEmail:string  
+
+1,'277.674.372-50','Jon','Yang','M',1980-11-13,'S','RUA DO PRINCIPE',330,'CENTRO','89223140','JOINVILLE','Santa Catarina','BRASIL',9000100,'1 (11) 500 555-0162','jon24@adventure-works.com'
+
+2,'882.659.990-64','Eugene','Huang','M',1980-02-19,'C','PARANA',313,'ANITA GARIBALDI','89223251','JOINVILLE','Santa Catarina','BRASIL',6000100,'1 (11) 500 555-0110','eugene10@adventure-works.com'
+
+3,'284.764.650-53','Ruben','Torres','M',1981-02-23,'S','HELENA DEGELMANN',524,'COSTA E SILVA','89227017','JOINVILLE','Santa Catarina','BRASIL', 6000100,'1 (11) 500 555-0184','ruben35@adventure-works.com'
+
+4,'867.906.272-81','Christy','Zhu','F',1981-08-01,'C','CONSELHEIRO ARP',657,'CENTRO','89212001','JOINVILLE','Santa Catarina','BRASIL',7000100,'1 (11) 500 555-0162','christy12@adventure-works.com'
+
+5,'074.545.253-56','Elizabeth','Johnson','F',1982-05-10,'S','PAULO SCHLEMM',42,'ANITA GARIBALDI','89217270','JOINVILLE','Santa Catarina','BRASIL',8000100,'1 (11) 500 555-0131','elizabeth5@adventure-works.com'
+
+6,'739.140.515-17','Julio','Ruiz','M',1982-11-05,'S','COPACABANA',580,'NOVA BRASILIA','89225420','JOINVILLE','Santa Catarina','BRASIL',7000100,'1 (11) 500 555-0151','julio1@adventure-works.com'
+
+7,'067.532.733-40','Janet','Alvarez','F',1980-10-28,'S','BABITONGA',466,'FLORESTA','89223250','JOINVILLE','Santa Catarina','BRASIL',7000100,'1 (11) 500 555-0184','janet9@adventure-works.com'
+
+8,'000.986.929-91','Marco','Mehta','M',1981-06-05,'S','CORONEL SANTIA',643,'ANITA GARIBALDI','89227320','JOINVILLE','Santa Catarina','BRASIL',6000100,'1 (11) 500 555-0126','marco14@adventure-works.com'
+
+9,'232.471.125-18','Rob','Verhoff','F',1981-09-22,'C','XV DE NOVEMBRO',1023,'CENTRO','89204020','JOINVILLE','Santa Catarina','BRASIL','6000100','1 (11) 500 555-0164','rob4@adventure-works.com'
+
+10,'860.050.864-87','Shannon','Carlson','M',1982-07-23,'S','ALEXANDRE SCHLEMM',400,'BUCAREIN','89223270','JOINVILLE','Santa Catarina','BRASIL',7000100,'1 (11) 500 555-0110','shannon38@adventure-works.com'
+
+11,'532.092.589-95','Jacquelyn','Suarez','F',1981-12-23,'S','COMENDADOR ARAUJO',44,'BOM RETIRO','89223330','JOINVILLE','Santa Catarina','BRASIL',7000100,'1 (11) 500 555-0169','jacquelyn20@adventure-works.com'
+
+12,'948.337.042-41','Curtis','Lu','M',1981-05-26,'S','BEIRA MAR',445,'BOM RETIRO','89210300','JOINVILLE','Santa Catarina','BRASIL',6000100,'1 (11) 500 555-0117','curtis9@adventure-works.com'
+
+13,'727.626.785-41','Lauren','Walker','F',1984-09-27,'S','PLACIDO MES',590,'ATIRADORES','89223100','JOINVILLE','Santa Catarina','BRASIL',10000100,'717-555-0164','lauren41@adventure-works.com'
+
+14,'008.690.418-12','Ian','Jenkins','M',1980-02-06,'C','MARECHAL DEODORO',858,'BOM RETIRO','89223-005','JOINVILLE','Santa Catarina','BRASIL',10000100,'817-555-0185','ian47@adventure-works.com'
+
+15,'084.066.822-01','Sydney','Bennett','F',1981-02-07,'S','ARACUA',342,'COSTA E SILVA','89222365','JOINVILLE','Santa Catarina','BRASIL',10000100,'431-555-0156','sydney23@adventure-works.com'
+
+}
